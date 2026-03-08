@@ -45,7 +45,8 @@
           "maxTokens": 4096,
           "api": "openai-completions"
         }
-      ]
+      ],
+      "apiKey": "OPENAI_API_KEY"
     }
   }
 }
