@@ -9,7 +9,8 @@
           "name": "Kimi K2.5",
           "reasoning": false,
           "input": [
-            "text"
+            "text",
+            "image"
           ],
           "cost": {
             "input": 0,
