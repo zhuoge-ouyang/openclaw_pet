@@ -137,5 +137,14 @@
         "enabled": true
       }
     }
+  },
+  "skills": {
+    "nano-banana-pro": {
+      "env": {
+        "GEMINI_API_KEY": "AIzaSyDuL3TIfjJYfknKbkDRT0upQYEJl9MYA58",
+        "HTTP_PROXY": "http://127.0.0.1:7890",
+        "HTTPS_PROXY": "http://127.0.0.1:7890"
+      }
+    }
   }
 }
