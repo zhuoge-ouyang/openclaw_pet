@@ -1,12 +1,12 @@
 {
   "meta": {
-    "lastTouchedVersion": "2026.2.22-2",
-    "lastTouchedAt": "2026-03-08T08:14:56.024Z"
+    "lastTouchedVersion": "2026.3.8",
+    "lastTouchedAt": "2026-03-21T10:34:34.231Z"
   },
   "wizard": {
-    "lastRunAt": "2026-02-22T17:02:24.142Z",
-    "lastRunVersion": "2026.2.21-2",
-    "lastRunCommand": "onboard",
+    "lastRunAt": "2026-03-21T10:34:34.206Z",
+    "lastRunVersion": "2026.3.8",
+    "lastRunCommand": "doctor",
     "lastRunMode": "local"
   },
   "auth": {
@@ -131,19 +131,11 @@
       "token": "4704db60e6b8d4ba391902914e9682367e910040e067f011"
     }
   },
+  "skills": {},
   "plugins": {
     "entries": {
       "feishu": {
         "enabled": true
-      }
-    }
-  },
-  "skills": {
-    "nano-banana-pro": {
-      "env": {
-        "GEMINI_API_KEY": "AIzaSyDuL3TIfjJYfknKbkDRT0upQYEJl9MYA58",
-        "HTTP_PROXY": "http://127.0.0.1:7890",
-        "HTTPS_PROXY": "http://127.0.0.1:7890"
       }
     }
   }
