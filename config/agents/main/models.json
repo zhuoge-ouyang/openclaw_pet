@@ -19,8 +19,7 @@
             "cacheWrite": 0
           },
           "contextWindow": 256000,
-          "maxTokens": 8192,
-          "api": "openai-completions"
+          "maxTokens": 8192
         }
       ],
       "apiKey": "sk-pg5QaGBd94XBsH3ygOUHyNUaAlakD5IWniAHjyvk7PD3Y4MS"
@@ -43,8 +42,7 @@
             "cacheWrite": 0
           },
           "contextWindow": 128000,
-          "maxTokens": 4096,
-          "api": "openai-completions"
+          "maxTokens": 4096
         }
       ],
       "apiKey": "OPENAI_API_KEY"
