@@ -129,14 +129,9 @@
     "feishu": {
       "enabled": true,
       "accounts": {
-        "default": {
+        "远仔": {
           "appId": "cli_a911632838f89cc8",
           "appSecret": "oTe3jYSHeURG3wMtHZhrBfao3k6Awdx8",
-          "enabled": true
-        },
-        "newbot": {
-          "appId": "cli_a95ba80cf7f89cc7",
-          "appSecret": "bwkfsYFYM8ulUWVU6EYOshrwnL1oaNyJ",
           "enabled": true
         }
       }
