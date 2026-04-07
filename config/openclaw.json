@@ -146,7 +146,15 @@
       "token": "4704db60e6b8d4ba391902914e9682367e910040e067f011"
     }
   },
-  "skills": {},
+  "skills": {
+    "nano-banana-pro": {
+      "apiKey": "sk-3jrvLqrpacPmLWIQxXkHbQ",
+      "env": {
+        "GEMINI_API_KEY": "sk-3jrvLqrpacPmLWIQxXkHbQ",
+        "GEMINI_BASE_URL": "https://oneai-gw-api.shiyue.com/v1"
+      }
+    }
+  },
   "plugins": {
     "entries": {
       "feishu": {
