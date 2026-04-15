@@ -89,7 +89,7 @@
         "enabled": true,
         "provider": "kimi",
         "kimi": {
-          "apiKey": "sk-ZuDxKAgZ5CHl2fOn2Q2N6wJuv06c2G4BJqlaDWqpP8TXh0R1"
+          "apiKey": "sk-s2XgTzs2pDjZst5jepRbXBFj5fCjdDcX0dnbIiEIgyEd5Mq9"
         }
       },
       "fetch": {
@@ -155,3 +155,4 @@
     }
   }
 }
+
