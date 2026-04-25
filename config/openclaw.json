@@ -1,10 +1,10 @@
 {
   "meta": {
     "lastTouchedVersion": "2026.4.14",
-    "lastTouchedAt": "2026-04-19T17:34:04.352Z"
+    "lastTouchedAt": "2026-04-25T16:22:13.102Z"
   },
   "wizard": {
-    "lastRunAt": "2026-04-19T17:24:16.179Z",
+    "lastRunAt": "2026-04-25T16:22:12.970Z",
     "lastRunVersion": "2026.4.14",
     "lastRunCommand": "configure",
     "lastRunMode": "local"
@@ -25,7 +25,7 @@
     "mode": "merge",
     "providers": {
       "moonshot": {
-        "baseUrl": "https://api.moonshot.cn/v1",
+        "baseUrl": "https://api.moonshot.ai/v1",
         "api": "openai-completions",
         "models": [
           {
